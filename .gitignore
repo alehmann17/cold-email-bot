@@ -1,0 +1,10 @@
+credentials.json
+token.json
+sender_config.json
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.xlsx
+*.csv
+company-research.json
